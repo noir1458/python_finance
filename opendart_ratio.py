@@ -1,6 +1,6 @@
 
 # https://dart.fss.or.kr/ 가입하고 키 발급받아서 넣기
-api_key = '30d4214898b69212560e46b2ed83b482b171338a'
+api_key = 'xxxxxxxxxxxxxxx'
 
 #!pip install OpenDartReader
 #!pip install --upgrade opendartreader
